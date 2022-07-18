@@ -5,7 +5,11 @@
 - [x] stripe product creation/deletion
 - [x] credit card payments (UI + validation callback)
 
+# screenshots
+## payment UI
 ![](payments.png)
+## successful payment
+![](success.png)
 
 # notes about this app
 - [x] this app is built on top of [simple-gço-server](https://github.com/uitachi123/simple-go-server) which is a working scaffolding of `golang` server with `react` UI
