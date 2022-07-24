@@ -1,5 +1,5 @@
 # go-stripe
-[Stripe](https://stripe.com/) is a great start up focusing on building `payment infrastructure` for the Internet. To understand what they can offer better, this is a toy app to demonstrate some features of stripe APIs. Of course what `Stripe` can provide is way more than what are demonstrated here but hopefully this app could give you a sense about there business ambitions.
+[Stripe](https://stripe.com/) is a great start up focusing on building `payment infrastructure` for the Internet. To understand what they can offer better, this is a toy app to demonstrate some features of stripe APIs. Of course what `Stripe` can provide is way more than what are demonstrated here but hopefully this app could give you a sense about their business ambitions.
 
 # stripe API features to demostrate
 - [x] stripe product creation/deletion
